@@ -1,0 +1,19 @@
+{
+  "name": "network-manager",
+  "version": "1.0.0",
+  "description": "This project aims to design a network management system responsible for network configuration and data visualization. The system runs on PetaLinux (a variation of Linux system) made for the PS (a arm based processor embedded in Xilinx SoC), with user interface implementation in HTML/JavaScript and a service that converts user input/output to/from the core functional module which executes the controlling commands on the network.",
+  "main": "index.html",
+  "scripts": {
+    "test": "firefox index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leevick/NetworkManager.git"
+  },
+  "author": "Victor LI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leevick/NetworkManager/issues"
+  },
+  "homepage": "https://github.com/leevick/NetworkManager#readme"
+}
