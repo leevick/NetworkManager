@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/leevick/NetworkManager/issues"
   },
-  "homepage": "https://github.com/leevick/NetworkManager#readme"
+  "homepage": "https://github.com/leevick/NetworkManager#readme",
+  "dependencies": {
+    "element-ui": "^2.11.1",
+    "vue": "^2.6.10"
+  }
 }
